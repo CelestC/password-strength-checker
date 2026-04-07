@@ -9,3 +9,8 @@ This is a simple Python project that checks whether a password is strong or weak
 
 ## Why I built this
 I am learning cybersecurity and building small projects to improve my skills.
+## Technologies Used
+- Python
+
+## Author
+Celeste – Aspiring Cybersecurity Analyst
